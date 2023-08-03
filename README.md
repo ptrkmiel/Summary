@@ -1,18 +1,6 @@
-# Summary
+# Portfolio
 
 ibcucucucucucucucucucucucucucucucu
-
-
-## Projekty Akademickie CAD (Siemens NX, AutoDesk Inventor, Ansys)
-
-<a href="images/dzwig1.png"><img src="images/dzwig1.png" style="height:200px"></a>
-<a href="images/chwytak.png"><img src="images/chwytak.png" style="height:200px"></a>
-<a href="images/brama2.png"><img src="images/brama2.png" style="height:200px"></a>
-
-W tej sekcji przedstawiłem wybrane projekty wykonane w CAD wykonane w ramach studiów.
-
-Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob/main/sites/CAD.md)
-
 
 
 ## Sterowanie zaworami magazynów ciepła dla przydomowego systemu ogrzewania (Embedded System)
@@ -46,7 +34,19 @@ Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob
 ## Projekty akademickie związane z automatyką
 
 
-## 
+W tej sekcji przedstawiłem wybrane projekty związane z szeroko pojętą automatyką (PLC, robotyka, programowanie).
+
+Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob/main/sites/auto.md)
+
+## Projekty Akademickie CAD (Siemens NX, AutoDesk Inventor, Ansys)
+
+<a href="images/dzwig1.png"><img src="images/dzwig1.png" style="height:200px"></a>
+<a href="images/chwytak.png"><img src="images/chwytak.png" style="height:200px"></a>
+<a href="images/brama2.png"><img src="images/brama2.png" style="height:200px"></a>
+
+W tej sekcji przedstawiłem wybrane projekty wykonane w CAD wykonane w ramach studiów.
+
+Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob/main/sites/CAD.md)
 
 
 ##

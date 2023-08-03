@@ -1,6 +1,7 @@
 ## Projekt fabryki w symulatorze Factory I/O sprzęgniętym z Tia Portal
 
-<a href="../images/factory1.png"><img src="../images/factory1.png" style="height:200px"></a>
+<a href="../images/factory1.png"><img src="../images/factory1.png" style="height:400px"></a>
+
 <a href="../images/factory2.png"><img src="../images/factory2.png" style="height:200px"></a>
 <a href="../images/factory3.png"><img src="../images/factory3.png" style="height:200px"></a>
 

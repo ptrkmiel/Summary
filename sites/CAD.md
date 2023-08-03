@@ -21,16 +21,22 @@ Nagranie symulacji ruchu: https://youtu.be/9rTvDCCXPS4?t=56
 
 <a href="../images/chwytak.png"><img src="../images/chwytak.png" style="height:400px"></a>
 
+Celem było zamodelowanie dwupalcowego chwytaka kątowego w środowisku Siemens NX12. 
+
 ## Prosty manipulator typu SCARA 4-osiowy (Siemens NX)
 
 <a href="../images/mani1.png"><img src="../images/mani1.png" style="height:400px"></a>
 <a href="../images/mani2.png"><img src="../images/mani2.png" style="height:400px"></a>
+
+Wykonano model 4-osiowego manipulatora typu SCARA. W projekcie wykorzystano gotowe elementy liniowe i obrotowe. Modele gotowych elementów zaczęrpnięto z bazy danych CAD.
 
 ## Projekt symulacji mechaniki w środowisku ANSYS
 
 <a href="../images/brama1.png"><img src="../images/brama1.png" style="height:200px"></a>
 <a href="../images/brama2.png"><img src="../images/brama2.png" style="height:200px"></a>
 
-https://mechamechanisms.com/bi-folding-gate-2
+W śrdowisku Ansys stworzono model dwuskrzydłowej bramy składanej którego założeniem było aby cały rych był wykonywany tlko przez jeden siłownik. Po zamodelowaniu układu przeprowadzono analizę dynamiczną oraz analizę wytrzymałościową elementów krytycznych.
+
+Źródło pomysłu oraz nagranie: https://mechamechanisms.com/bi-folding-gate-2
 
 

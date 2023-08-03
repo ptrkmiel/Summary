@@ -14,3 +14,10 @@
 <a href="../images/mani2.png"><img src="../images/mani2.png" style="height:400px"></a>
 
 ## Projekt symulacji mechaniki w środowisku ANSYS
+
+<a href="../images/brama1.png"><img src="../images/brama1.png" style="height:400px"></a>
+<a href="../images/brama2.png"><img src="../images/brama2.png" style="height:400px"></a>
+
+https://mechamechanisms.com/bi-folding-gate-2
+
+

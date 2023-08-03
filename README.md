@@ -7,10 +7,19 @@ ibcucucucucucucucucucucucucucucucu
 
 W tej sekcji przedstawiłem wybrane projekty wykonane w CAD wykonane w ramach studiów.
 
+Więcej informacji dostępnych [tutaj.]()
+
+
 
 ## Sterowanie zaworami magazynów ciepła dla przydomowego systemu ogrzewania (Embedded System)
 
 Zaprojektowano dedykowany, prosty system sterowania dla złożonego układu grzewczego w domu jednorodzinnym, z uwagi na niemożliwość użycia standardowych sterowników. System zapewnia utrzymanie równych temperatur w dwóch magazynach ciepła poprzez sterowanie przepływem ciepła za pomocą zaworów. System posiada wbudowane funkcje bezpieczeństwa, a wskazania czujników są wyświetlane na LCD dla wygody monitorowania. Przeprowadzono testy na symulatorze a następnie na działającym systemie ogrzewania, co pozwoliło na dostosowanie i weryfikację rozwiązania.
+
+Więcej informacji dostępnych [tutaj.]()
+
+## DIY Multi-purpose CNC Machine
+
+Zdecydowano się na stworzenie małej frezarki typu CNC, przy czym kluczowym założeniem było zapewnienie wymienialności głowicy, aby narzędzie mogło służyć wielu różnym funkcjom. To połączenie frezarki CNC z drukarką 3D pozwoli na łatwą adaptację maszyny do różnych zastosowań, wystarczy jedynie wymienić głowicę.
 
 Więcej informacji dostępnych [tutaj.]()
 

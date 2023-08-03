@@ -19,7 +19,7 @@ Nagranie symulacji ruchu: https://youtu.be/9rTvDCCXPS4?t=56
 
 ## Chwytak manipulatora (Siemens NX)
 
-<a href="../images/chwytak.png"><img src="../images/chwytak.png" style="height:400px"></a>
+<a href="../images/chwytak.png"><img src="../images/chwytak.png" style="height:200px"></a>
 
 Celem było zamodelowanie dwupalcowego chwytaka kątowego w środowisku Siemens NX12. 
 

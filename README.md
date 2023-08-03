@@ -37,3 +37,17 @@ Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob
 
 ## PRACA MAGISTERSKA
 
+## Project Based Learning - Stetoskop
+
+
+## Project Based Learning - Orteza
+
+
+## Projekty akademickie związane z automatyką
+
+
+## 
+
+
+##
+

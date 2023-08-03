@@ -1,6 +1,12 @@
+## Projekt fabryki w symulatorze Factory I/O sprzęgniętym z Tia Portal
+
+
+## Lua
+
+
 ## Automatyka budynkowa
 
-## Factory i/o
+
 
 ## Process simulate
 
@@ -12,4 +18,4 @@
 
 ## Turck
 
-## Lua
+

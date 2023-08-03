@@ -1,6 +1,6 @@
 # Portfolio
 
-ibcucucucucucucucucucucucucucucucu
+Baza wybranych projektów które wykonałem.
 
 
 ## Sterowanie zaworami magazynów ciepła dla przydomowego systemu ogrzewania (Embedded System)
@@ -29,10 +29,21 @@ Celem pracy magisterskiej jest opracowanie systemu wykrywania sytuacji krytyczny
 
 Więcej szczegółów wkrótce.
 
-## Project Based Learning - Stetoskop
+## Project Based Learning - Stetoskop bezprzewodowy
 
+<a href="images/steto1.png"><img src="images/steto1.png" style="height:200px"></a>
+<a href="images/steto3.png"><img src="images/steto3.png" style="height:200px"></a>
+<a href="images/steto2.png"><img src="images/steto2.png" style="height:200px"></a>
 
-## Project Based Learning - Orteza
+Celem projektu było stworzenie bezprzewodowego stetoskopu umożliwiającego odsłuch na smarfonie. Moim zadaniem było stworzenie aplikacji na system Android umożliwiającej zdalny odsłuch poprzez połączenie Bluetooth.
+
+## Project Based Learning - Orteza kriogeniczna
+
+<a href="images/ort1.png"><img src="images/ort1.png" style="height:200px"></a>
+<a href="images/ort3.png"><img src="images/ort3.png" style="height:200px"></a>
+<a href="images/ort2.png"><img src="images/ort2.png" style="height:200px"></a>
+
+Celem projektu było zbudowanie ortezy umożliwiającej chłodzenie stawu kolanowego. Czynnikiem chłodzącym była ciecz schładzana za pomocą ogniwa peltiera zasilanego poprzez zestaw akumulatorów. Takie rozwiązanie zapewniło mobilność urządzenia. Dodatkowym elementem była aplikacja na system Android umożliwiajaca ustawienie temperatury oraz monitorowanie parametrów.
 
 
 ## Projekty akademickie związane z automatyką

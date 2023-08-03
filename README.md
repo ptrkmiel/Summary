@@ -9,6 +9,7 @@ W tej sekcji przedstawiłem wybrane projekty wykonane w CAD wykonane w ramach st
 
 <a href="images/dzwig1.png"><img src="images/dzwig1.png" style="height:200px"></a>
 <a href="images/chwytak.png"><img src="images/chwytak.png" style="height:200px"></a>
+<a href="images/mani1.png"><img src="images/mani1.png" style="height:200px"></a>
 
 Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob/main/sites/CAD.md)
 

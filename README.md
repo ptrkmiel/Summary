@@ -37,6 +37,9 @@ Więcej szczegółów wkrótce.
 
 ## Projekty akademickie związane z automatyką
 
+<a href="images/factory1.png"><img src="images/factory1.png" style="height:200px"></a>
+<a href="images/lua1.png"><img src="images/lua1.png" style="height:200px"></a>
+<a href="images/turck2.png"><img src="images/turck2.png" style="height:200px"></a>
 
 W tej sekcji przedstawiłem wybrane projekty związane z szeroko pojętą automatyką (PLC, robotyka, programowanie).
 

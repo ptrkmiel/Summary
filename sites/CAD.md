@@ -8,13 +8,13 @@ W ramach projektu akademickiego utworzono model dźwigu przeznaczonego jest do p
 
 ## Frezarka wydrukowana na drukarce 3D (Siemens NX)
 
-<a href="../images/frez1.png"><img src="../images/frez1.png" style="height:400px"></a>
-<a href="../images/frez2.png"><img src="../images/frez2.png" style="height:400px"></a>
+<a href="../images/frez1.png"><img src="../images/frez1.png" style="height:200px"></a>
+<a href="../images/frez2.png"><img src="../images/frez2.png" style="height:200px"></a>
+<a href="../images/frez3.png"><img src="../images/frez3.png" style="height:200px"></a>
 
 W ramach projektu akademickiego swtorzono model frezarki 3-osiowej składającej się z elementów dostępnych w sprzedaży oraz elementów wydrukowanych na drukarce 3D. W celu ułatwienia montażu elementów wykonano specjalne gniazda na łeb śruby lub nakrętki oraz zastosowano tuleje gwintowe wtapiane w elementy drukowane. Następnie zbadano wytrzymałość elementów oraz przerowadzono symulację ruchu. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9rTvDCCXPS4?start=56" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+Nagranie symulacji ruchu: https://youtu.be/9rTvDCCXPS4?t=56
 
 
 ## Chwytak manipulatora (Siemens NX)

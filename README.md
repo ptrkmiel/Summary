@@ -23,3 +23,13 @@ Zdecydowano się na stworzenie małej frezarki typu CNC, przy czym kluczowym za�
 
 Więcej informacji dostępnych [tutaj.]()
 
+## PROJEKT INŻYNIERSKI 
+
+Temat: 
+
+Celem niniejszego projektu jest opracowanie modeli matematycznych oraz wykonanie symulacji działania systemu pompy ciepła w zastosowaniu ogrzewania budynków jednorodzinnych. W ramach projektu przeprowadzono analizę literatury o tematyce wykorzystania i budowy sprężarkowych pomp grzejnych w celu ogrzewania budynków oraz dokonano przeglądu obecnych na runku rozwiązań. W ramach projektu przyjęto założenia obliczeniowe i dobrano parametry systemu pompy ciepła dla zadanego przypadku. Rezultatem projektu jest opracowany model pompy ciepła oraz model termodynamiki budynku ogrzewanego, wykonane w środowisku MATLAB Simulink. Po wykonaniu symulacji działania systemu dokonano analizy wyników. Uzyskane wyniki symulacji wskazują poprawność działania systemu.
+
+Więcej informacji dostępnych [tutaj.]()
+
+## PRACA MAGISTERSKA
+

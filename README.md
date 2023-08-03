@@ -29,7 +29,7 @@ Temat: Modelowanie matematyczne oraz symulacja działania systemu pompy ciepła 
 
 Celem niniejszego projektu jest opracowanie modeli matematycznych oraz wykonanie symulacji działania systemu pompy ciepła w zastosowaniu ogrzewania budynków jednorodzinnych. W ramach projektu przeprowadzono analizę literatury o tematyce wykorzystania i budowy sprężarkowych pomp grzejnych w celu ogrzewania budynków oraz dokonano przeglądu obecnych na runku rozwiązań. W ramach projektu przyjęto założenia obliczeniowe i dobrano parametry systemu pompy ciepła dla zadanego przypadku. Rezultatem projektu jest opracowany model pompy ciepła oraz model termodynamiki budynku ogrzewanego, wykonane w środowisku MATLAB Simulink. Po wykonaniu symulacji działania systemu dokonano analizy wyników. Uzyskane wyniki symulacji wskazują poprawność działania systemu.
 
-Więcej informacji dostępnych [tutaj.]()
+Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob/main/sites/inzynierka.png)
 
 ## PRACA MAGISTERSKA
 

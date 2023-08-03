@@ -21,14 +21,18 @@ W celu realizacji projektu należy zaprojektować i opracować model robota eksp
 
 
 
+
+
 ## OPC python client
 
 Celem projektu było przygotowanie symulatora w języku Python, który umożliwiałby połączenie się z serwerem OPC oraz odczyt i nadawanie danych dla poszczególnych adresów sieci.
 
-
-## SCADA -iFix
-
-
 ## Turck
+
+<a href="../images/turck2.png"><img src="../images/turck2.png" style="height:200px"></a>
+<a href="../images/turck1.png"><img src="../images/turck1.png" style="height:200px"></a>
+
+Celem projektu było zapoznianie się z serią prostych sterowników programowalnych marki Turck. 
+
 
 ## ... oraz wiele więcej małych projektów PLC opartych na sterownikach Siemens, programownych zarówno w LOGO jak i Tia

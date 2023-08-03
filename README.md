@@ -25,6 +25,10 @@ Więcej informacji dostępnych [tutaj.](https://github.com/ptrkmiel/Summary/blob
 
 ## PRACA MAGISTERSKA
 
+Celem pracy magisterskiej jest opracowanie systemu wykrywania sytuacji krytycznych dla pojazdów autonomicznych.
+
+Więcej szczegółów wkrótce.
+
 ## Project Based Learning - Stetoskop
 
 

@@ -1,8 +1,4 @@
 
-
-# [-->  PORTFOLIO IN ENGLISH  <--](https://github.com/ptrkmiel/Summary/blob/main/sites/en.md)
-
-
 # Portfolio 
 Baza wybranych projektów które wykonałem.
 
